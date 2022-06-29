@@ -30,3 +30,6 @@ If there are any problems check this repo for changes and update your script or 
       5. Ctrl+S to save
 
 <img title="cropped image of the dashboard with a red circle around the EDIT-symbol" src="https://raw.githubusercontent.com/moddypls/fuck-the-bot/main/Dashbord%20with%20Edit%20symbol%20marked.png">
+
+
+also lmk if you have any suggestions/ideas
