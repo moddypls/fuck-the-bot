@@ -33,5 +33,5 @@ Sometimes refreshing discord also helps.
 <img title="cropped image of the dashboard with a red circle around the EDIT-symbol" src="https://raw.githubusercontent.com/moddypls/fuck-the-bot/main/Dashbord%20with%20Edit%20symbol%20marked.png">
 
 
-also lmk if you have any suggestions/ideas.
+also lmk if you have any suggestions/ideas.<br>
 this script can technically work for any user you want to block without using the built-in block function from discord
