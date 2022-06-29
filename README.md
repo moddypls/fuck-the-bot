@@ -14,6 +14,7 @@ userscript to get rid of the bot - work in progress as long as i feel like it
 4.  Then just click Ctrl+S to save and you're done
 
 If there are any problems check this repo for changes and update your script or lmk
+Sometimes refreshing discord also helps
 
 # Updating your script...
 
