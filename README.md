@@ -15,7 +15,7 @@ userscript to get rid of the bot - work in progress as long as i feel like it
 
 If there are any problems check this repo for changes and update your script or lmk
 
-# Updating your script
+# Updating your script...
 
 1.  Find the icon of Greasemonkey or Tempermonkey in your menu of installed extensions
 
